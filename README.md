@@ -20,4 +20,4 @@ Untill it's done, if you are using **windows** or **mac** you can do it manually
 "author":"Enter Autor Name"
 }
 ```
-4. That's it, enjoy.
+That's it, enjoy.
