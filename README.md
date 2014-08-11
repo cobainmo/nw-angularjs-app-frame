@@ -17,7 +17,7 @@ Until it's done, if you are using **windows** or **mac** you can do it manually 
 "version":"0.0.0",
 "description":"Enter Project Description",
 "main":"index.html",
-"author":"Enter Autor Name"
+"author":"Enter Author Name"
 }
 ```
 That's it, enjoy.
