@@ -3,7 +3,7 @@ nw-angularjs-app-frame
 
 Node-Webkit with integrated Angular JS and run scripts for faster start
 
-**Script Usage**
+##**Script Usage**
 Script takes basic app frame with node-webkit project and integrated AngularJS to create start-up app frame with all relevant files included. 
 
 If you are running **linux** it is recomended to youse run.sh script and folow direction.
