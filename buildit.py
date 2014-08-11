@@ -44,9 +44,9 @@ with open(home+"/"+file_dir+'/package.json', 'w+') as file:
     file.write('}\n')
     
     print ""
-    print "package created successfully!"
+    print "Package created successfully!"
     print ""
-    print "Create a run script for application?\n"
+    print "Do you want to create a run script for application?\n"
     print "1) Yes\n"
     print "2) No\n"
     answer = raw_input("Enter number: ")
@@ -73,6 +73,7 @@ with open(home+"/"+file_dir+'/package.json', 'w+') as file:
         print "You can run your app from "+home+"/"+file_dir+" by executing run.sh file or using full path to nw (/home/user/nw /home/user/projectName/)!"
     else :
         print "Instalation is complete, you are ready to make some magic!"
+        print "Your project is in "+home+"/"+file_dir+" directory!"
         
         
         
