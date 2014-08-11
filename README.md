@@ -22,3 +22,14 @@ If you are running **linux** just run **run.sh** script and follow directions.
 }
 ```
 That's it, enjoy.
+
+##**Helpful informations**
+
+To run this application you need node-webkit, you can download it from this link:
+**https://github.com/rogerwang/node-webkit**
+
+To run your app use:
+
+```
+/path/to/node-webkit/nw /path/to/project
+```
