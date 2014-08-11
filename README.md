@@ -1,4 +1,4 @@
-nw-angularjs-app-frame
+Node-Webkit with AngularJS App Frame
 ======================
 
 Node-Webkit with integrated Angular JS and run scripts for faster start
